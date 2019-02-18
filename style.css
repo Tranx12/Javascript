@@ -1,0 +1,17 @@
+#first{
+    width:100%;
+    height:200px;
+    border:2px solid red;
+}
+
+#img{
+    display:none
+}
+
+body{
+    background-color: black;
+    color:whitesmoke
+}
+#j{
+    background-color:aquamarine
+}
